@@ -1,0 +1,602 @@
+[
+  {
+    "_id": 0,
+    "gender": "1-Male",
+    "phone": "+1 (938) 462-3048",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 1,
+    "gender": "3-Other",
+    "phone": "+1 (860) 418-2546",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 2,
+    "gender": "3-Other",
+    "phone": "+1 (883) 526-2983",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 3,
+    "gender": "1-Male",
+    "phone": "+1 (929) 564-2985",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 4,
+    "gender": "1-Male",
+    "phone": "+1 (886) 511-2133",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 5,
+    "gender": "1-Male",
+    "phone": "+1 (895) 509-2362",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 6,
+    "gender": "3-Other",
+    "phone": "+1 (918) 450-2137",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 7,
+    "gender": "2-Female",
+    "phone": "+1 (901) 449-3047",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 8,
+    "gender": "1-Male",
+    "phone": "+1 (808) 462-3821",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 9,
+    "gender": "3-Other",
+    "phone": "+1 (948) 555-2175",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 10,
+    "gender": "2-Female",
+    "phone": "+1 (876) 409-2435",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 11,
+    "gender": "1-Male",
+    "phone": "+1 (966) 407-3164",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 12,
+    "gender": "3-Other",
+    "phone": "+1 (815) 578-2959",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 13,
+    "gender": "1-Male",
+    "phone": "+1 (879) 542-3381",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 14,
+    "gender": "3-Other",
+    "phone": "+1 (842) 514-3861",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 15,
+    "gender": "1-Male",
+    "phone": "+1 (947) 552-3489",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 16,
+    "gender": "3-Other",
+    "phone": "+1 (912) 589-2123",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 17,
+    "gender": "1-Male",
+    "phone": "+1 (855) 482-3367",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 18,
+    "gender": "2-Female",
+    "phone": "+1 (954) 589-2498",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 19,
+    "gender": "1-Male",
+    "phone": "+1 (842) 436-3479",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 20,
+    "gender": "3-Other",
+    "phone": "+1 (938) 439-3099",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 21,
+    "gender": "3-Other",
+    "phone": "+1 (922) 453-3560",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 22,
+    "gender": "3-Other",
+    "phone": "+1 (987) 464-2188",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 23,
+    "gender": "1-Male",
+    "phone": "+1 (958) 568-2833",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 24,
+    "gender": "2-Female",
+    "phone": "+1 (922) 541-3841",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 25,
+    "gender": "1-Male",
+    "phone": "+1 (945) 496-2244",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 26,
+    "gender": "3-Other",
+    "phone": "+1 (918) 561-2995",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 27,
+    "gender": "1-Male",
+    "phone": "+1 (988) 565-2811",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 28,
+    "gender": "1-Male",
+    "phone": "+1 (825) 486-3486",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 29,
+    "gender": "2-Female",
+    "phone": "+1 (847) 545-3734",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 30,
+    "gender": "2-Female",
+    "phone": "+1 (961) 588-3420",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 31,
+    "gender": "1-Male",
+    "phone": "+1 (815) 527-2049",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 32,
+    "gender": "1-Male",
+    "phone": "+1 (965) 405-3580",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 33,
+    "gender": "2-Female",
+    "phone": "+1 (925) 518-3755",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 34,
+    "gender": "3-Other",
+    "phone": "+1 (929) 468-2872",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 35,
+    "gender": "2-Female",
+    "phone": "+1 (995) 572-2262",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 36,
+    "gender": "1-Male",
+    "phone": "+1 (865) 510-3679",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 37,
+    "gender": "2-Female",
+    "phone": "+1 (832) 506-2505",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 38,
+    "gender": "1-Male",
+    "phone": "+1 (922) 534-3972",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 39,
+    "gender": "3-Other",
+    "phone": "+1 (841) 517-3112",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 40,
+    "gender": "3-Other",
+    "phone": "+1 (801) 521-2964",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 41,
+    "gender": "2-Female",
+    "phone": "+1 (910) 488-3850",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 42,
+    "gender": "1-Male",
+    "phone": "+1 (854) 476-3225",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 43,
+    "gender": "2-Female",
+    "phone": "+1 (926) 573-3294",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 44,
+    "gender": "3-Other",
+    "phone": "+1 (934) 565-2652",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 45,
+    "gender": "2-Female",
+    "phone": "+1 (963) 507-3357",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 46,
+    "gender": "2-Female",
+    "phone": "+1 (872) 538-2398",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 47,
+    "gender": "3-Other",
+    "phone": "+1 (962) 536-3496",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 48,
+    "gender": "1-Male",
+    "phone": "+1 (921) 434-3728",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 49,
+    "gender": "3-Other",
+    "phone": "+1 (927) 554-2034",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 50,
+    "gender": "1-Male",
+    "phone": "+1 (951) 507-2430",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 51,
+    "gender": "3-Other",
+    "phone": "+1 (941) 570-2228",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 52,
+    "gender": "2-Female",
+    "phone": "+1 (839) 416-3879",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 53,
+    "gender": "2-Female",
+    "phone": "+1 (895) 423-2658",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 54,
+    "gender": "3-Other",
+    "phone": "+1 (928) 525-2639",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 55,
+    "gender": "3-Other",
+    "phone": "+1 (914) 589-3921",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 56,
+    "gender": "3-Other",
+    "phone": "+1 (891) 567-2673",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 57,
+    "gender": "2-Female",
+    "phone": "+1 (837) 554-2651",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 58,
+    "gender": "3-Other",
+    "phone": "+1 (833) 510-3738",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 59,
+    "gender": "2-Female",
+    "phone": "+1 (925) 417-2766",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 60,
+    "gender": "1-Male",
+    "phone": "+1 (978) 422-2190",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 61,
+    "gender": "3-Other",
+    "phone": "+1 (868) 413-3971",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 62,
+    "gender": "2-Female",
+    "phone": "+1 (860) 498-2347",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 63,
+    "gender": "1-Male",
+    "phone": "+1 (930) 554-3785",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 64,
+    "gender": "1-Male",
+    "phone": "+1 (939) 410-2723",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 65,
+    "gender": "1-Male",
+    "phone": "+1 (816) 556-3467",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 66,
+    "gender": "2-Female",
+    "phone": "+1 (915) 473-3046",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 67,
+    "gender": "1-Male",
+    "phone": "+1 (873) 495-2329",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 68,
+    "gender": "3-Other",
+    "phone": "+1 (872) 543-2730",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 69,
+    "gender": "3-Other",
+    "phone": "+1 (802) 409-3816",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 70,
+    "gender": "1-Male",
+    "phone": "+1 (991) 509-3521",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 71,
+    "gender": "1-Male",
+    "phone": "+1 (911) 549-2414",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 72,
+    "gender": "3-Other",
+    "phone": "+1 (853) 541-3590",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 73,
+    "gender": "3-Other",
+    "phone": "+1 (991) 570-2985",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 74,
+    "gender": "2-Female",
+    "phone": "+1 (920) 491-2406",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 75,
+    "gender": "2-Female",
+    "phone": "+1 (854) 457-3304",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 76,
+    "gender": "3-Other",
+    "phone": "+1 (859) 453-3164",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 77,
+    "gender": "3-Other",
+    "phone": "+1 (809) 505-2064",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 78,
+    "gender": "1-Male",
+    "phone": "+1 (913) 545-2548",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 79,
+    "gender": "1-Male",
+    "phone": "+1 (802) 531-2604",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 80,
+    "gender": "1-Male",
+    "phone": "+1 (987) 574-3519",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 81,
+    "gender": "2-Female",
+    "phone": "+1 (826) 476-3368",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 82,
+    "gender": "2-Female",
+    "phone": "+1 (991) 574-3464",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 83,
+    "gender": "2-Female",
+    "phone": "+1 (885) 548-3205",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 84,
+    "gender": "3-Other",
+    "phone": "+1 (945) 574-3145",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 85,
+    "gender": "3-Other",
+    "phone": "+1 (845) 411-2406",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 86,
+    "gender": "1-Male",
+    "phone": "+1 (861) 596-2395",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 87,
+    "gender": "2-Female",
+    "phone": "+1 (973) 479-3473",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": 88,
+    "gender": "1-Male",
+    "phone": "+1 (983) 404-3447",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 89,
+    "gender": "3-Other",
+    "phone": "+1 (846) 532-2503",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 90,
+    "gender": "3-Other",
+    "phone": "+1 (835) 453-2289",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 91,
+    "gender": "2-Female",
+    "phone": "+1 (970) 505-3011",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 92,
+    "gender": "1-Male",
+    "phone": "+1 (999) 408-2993",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 93,
+    "gender": "2-Female",
+    "phone": "+1 (958) 453-2723",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 94,
+    "gender": "1-Male",
+    "phone": "+1 (986) 509-3471",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": 95,
+    "gender": "3-Other",
+    "phone": "+1 (941) 570-3315",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 96,
+    "gender": "2-Female",
+    "phone": "+1 (946) 534-3700",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 97,
+    "gender": "2-Female",
+    "phone": "+1 (967) 538-3616",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 98,
+    "gender": "3-Other",
+    "phone": "+1 (990) 529-2404",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": 99,
+    "gender": "1-Male",
+    "phone": "+1 (922) 597-2514",
+    "favoriteFruit": "banana"
+  }
+]
